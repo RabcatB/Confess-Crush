@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Xin lỗi bé",
+    introTitle: 'Nguyễn Thanh Quỳnh Như',
+    introDesc: `Anh muốn thành tâm xin nỗi cục cưng của anh`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    title: 'Anh xin lỗi vì đã nói chuyện không hợp ý em',
+    desc: 'Em thông cảm cho anh vì hiện tại anh đang không được khỏe lắm em nhé 😙',
+    btnYes: 'Hong giận nữa',
+    btnNo: 'Vẫn giận anh luôn',
+    question: 'Zạy em muốn anh làm gì cho em hết giận nè',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Anh phải thay đổi mới được',
+    mess: 'Anh biết gòi hihi, anh thương bé nhìu',
+    messDesc: 'Mình làm hòa em nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
